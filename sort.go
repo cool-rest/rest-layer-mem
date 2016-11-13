@@ -3,7 +3,7 @@ package mem
 import (
 	"time"
 
-	"github.com/rs/rest-layer/resource"
+	"github.com/cool-rest/rest-layer/resource"
 )
 
 // sortableItems is an item slice implementing sort.Interface
